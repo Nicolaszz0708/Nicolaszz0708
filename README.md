@@ -54,4 +54,4 @@ I'm also learning more about databases, Git, and software security, including pa
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%">
 
-![Snake animation](Nicolaszz0708)
+![Snake animation]([Nicolaszz0708](https://github.com/Nicolaszz0708/Nicolaszz0708.git/))
