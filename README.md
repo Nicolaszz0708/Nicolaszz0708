@@ -1,6 +1,11 @@
 # Hi 👋, I'm Nicolas Reche
+# About me #
+## 👨‍💻 About me
 
-### 🎓 Technical Student in Computer Science at CEDUP Renato Ramos da Silva##
+I am a Technical Informatics student interested in software development and technology, with plans to study Systems Analysis and Development.
+I'm currently focused on becoming a Full Stack Developer, learning technologies like JavaScript, React, Node.js, Python, Django, Flask, and Vercel. 
+I'm also learning more about databases, Git, and software security, including password hashing and authentication.
+
 
  ## 🏫 Study at Cedup
 ![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=white)
@@ -15,6 +20,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=007ACC)
 ![Django](https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django&logoColor=green)
+![Flask](https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-323330?style=for-the-badge&logo=linux&logoColor=FCC624)
 ### Currently learning
 ![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
