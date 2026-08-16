@@ -38,19 +38,19 @@ I'm also learning more about databases, Git, and software security, including pa
 ![GitHub](https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=white)
 
 
-<p align="left">
-      <a href="https://github.com/Nicolaszz0708?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nicolaszz0708?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Nicolaszz0708?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nicolaszz0708?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 # 📊GitHub Stats
 <p align="left">
-  <img height="140em" src="https://nicolas-github-stats.vercel.app/api?username=Nicolaszz0708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="140em" src="https://nicolas-github-stats.vercel.app/api/top-langs/?username=Nicolaszz0708&layout=compact&theme=tokyonight&cache_seconds=1"/>
+  <img height="140em" src="https://nicolas-github-stats.vercel.app/api?username=Nicolaszz0708&show_icons=true&include_all_commits=true&count_private=true&bg_color=181825&title_color=CBA6F7&text_color=CDD6F4&icon_color=CBA6F7&hide_border=true"/>
+<img height="140em" src="https://nicolas-github-stats.vercel.app/api/top-langs/?username=Nicolaszz0708&layout=compact&bg_color=181825&title_color=CBA6F7&text_color=CDD6F4&icon_color=CBA6F7&hide_border=true&cache_seconds=1"/>
 </p>
 
+<p align="left">
+      <a href="https://github.com/Nicolaszz0708?tab=followers">
+         <img alt="followers" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/Nicolaszz0708?color=7F6AA8&labelColor=6F5A91&style=for-the-badge&logo=person-add&label=Siga-me&logoColor=white"/></a>
+      <a href="https://github.com/Nicolaszz0708?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nicolaszz0708?color=7F6AA8&style=for-the-badge&labelColor=6F5A91&logo=star"/></a>
+   </p>
 
 ![Snake animation](https://raw.githubusercontent.com/Nicolaszz0708/Nicolaszz0708/output/github-contribution-grid-snake-dark.svg)
 
