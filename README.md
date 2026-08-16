@@ -51,7 +51,7 @@ I'm also learning more about databases, Git, and software security, including pa
 <img height="140em" src="https://nicolas-github-stats.vercel.app/api/top-langs/?username=Nicolaszz0708&layout=compact&theme=tokyonight&cache_seconds=1"/>
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/Nicolaszz0708/Nicolaszz0708/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%">
 
-![Snake animation](https://raw.githubusercontent.com/Nicolaszz0708/Nicolaszz0708/output/github-contribution-grid-snake-dark.svg)
