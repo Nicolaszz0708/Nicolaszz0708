@@ -45,9 +45,9 @@ I'm also learning more about databases, Git, and software security, including pa
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nicolaszz0708?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-<p align="center">
-  <img height="180em" src="https://nicolas-github-stats.vercel.app/api?username=Nicolaszz0708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://nicolas-github-stats.vercel.app/api/top-langs/?username=Nicolaszz0708&layout=compact&theme=tokyonight"/>
+<p align="left">
+  <img height="120em" src="https://nicolas-github-stats.vercel.app/api?username=Nicolaszz0708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://nicolas-github-stats.vercel.app/api/top-langs/?username=Nicolaszz0708&layout=compact&theme=tokyonight&cache_seconds=1"/>
 </p>
 
 
