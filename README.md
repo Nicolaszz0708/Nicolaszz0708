@@ -1,4 +1,3 @@
-
 # Hi 👋, im Nicolas Reche
 
  🏫 **taking a basic computer skills course at CEDUP Renato Ramos da Silva**
@@ -28,5 +27,10 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nicolaszz0708?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+<p align="left">
+  <img height="115em" src="https://nicolas-github-stats.vercel.app/api?username=Nicolaszz0708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="115em" src="https://nicolas-github-stats.vercel.app/api/top-langs/?username=Nicolaszz0708&layout=compact&theme=tokyonight"/>
+</p>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%">
-   
