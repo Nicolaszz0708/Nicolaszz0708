@@ -1,0 +1,135 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1200"
+    height="60"
+    viewBox="0 0 1200 60"
+    shape-rendering="crispEdges"
+>
+    <!--
+        border-top.svg
+        Pixel-art cozy night farm border
+        Palette: Tokyo Night
+    -->
+
+    <!-- Base shadow / wooden line -->
+    <rect x="0" y="48" width="1200" height="4" fill="#0D1117"/>
+    <rect x="0" y="44" width="1200" height="4" fill="#161B33"/>
+    <rect x="0" y="40" width="1200" height="4" fill="#1F2547"/>
+
+    <!-- Pixel wooden highlights -->
+    <rect x="0" y="36" width="1200" height="4" fill="#3B4261"/>
+    <rect x="0" y="40" width="1200" height="2" fill="#565F89"/>
+
+    <!-- LEFT CORNER -->
+    <rect x="0" y="24" width="4" height="20" fill="#565F89"/>
+    <rect x="4" y="20" width="8" height="24" fill="#3B4261"/>
+    <rect x="12" y="16" width="8" height="28" fill="#1F2547"/>
+    <rect x="20" y="12" width="12" height="32" fill="#161B33"/>
+    <rect x="8" y="32" width="12" height="4" fill="#7AA2F7"/>
+
+    <!-- RIGHT CORNER -->
+    <rect x="1168" y="12" width="12" height="32" fill="#161B33"/>
+    <rect x="1180" y="16" width="8" height="28" fill="#1F2547"/>
+    <rect x="1188" y="20" width="8" height="24" fill="#3B4261"/>
+    <rect x="1196" y="24" width="4" height="20" fill="#565F89"/>
+    <rect x="1180" y="32" width="12" height="4" fill="#7AA2F7"/>
+
+    <!-- STAR FIELD -->
+    <rect x="72" y="10" width="3" height="3" fill="#9AA5CE"/>
+    <rect x="76" y="6" width="3" height="3" fill="#7AA2F7"/>
+    <rect x="80" y="10" width="3" height="3" fill="#9AA5CE"/>
+    <rect x="76" y="14" width="3" height="3" fill="#BB9AF7"/>
+
+    <rect x="260" y="18" width="3" height="3" fill="#7AA2F7"/>
+    <rect x="264" y="14" width="3" height="3" fill="#9AA5CE"/>
+    <rect x="268" y="18" width="3" height="3" fill="#7AA2F7"/>
+    <rect x="264" y="22" width="3" height="3" fill="#565F89"/>
+
+    <rect x="470" y="8" width="3" height="3" fill="#BB9AF7"/>
+    <rect x="474" y="4" width="3" height="3" fill="#9AA5CE"/>
+    <rect x="478" y="8" width="3" height="3" fill="#BB9AF7"/>
+
+    <rect x="710" y="16" width="3" height="3" fill="#7AA2F7"/>
+    <rect x="714" y="12" width="3" height="3" fill="#9AA5CE"/>
+    <rect x="718" y="16" width="3" height="3" fill="#7AA2F7"/>
+    <rect x="714" y="20" width="3" height="3" fill="#565F89"/>
+
+    <rect x="930" y="8" width="3" height="3" fill="#9AA5CE"/>
+    <rect x="934" y="4" width="3" height="3" fill="#BB9AF7"/>
+    <rect x="938" y="8" width="3" height="3" fill="#9AA5CE"/>
+
+    <rect x="1080" y="20" width="3" height="3" fill="#7AA2F7"/>
+
+    <!-- SMALL HILLS -->
+    <polygon
+        points="40,40 56,28 72,40"
+        fill="#1F2547"
+    />
+    <polygon
+        points="82,40 96,32 110,40"
+        fill="#161B33"
+    />
+
+    <polygon
+        points="1080,40 1096,30 1112,40"
+        fill="#1F2547"
+    />
+    <polygon
+        points="1120,40 1134,32 1150,40"
+        fill="#161B33"
+    />
+
+    <!-- LEFT PLANT -->
+    <rect x="132" y="30" width="4" height="12" fill="#3B4261"/>
+    <rect x="124" y="28" width="8" height="4" fill="#565F89"/>
+    <rect x="128" y="24" width="8" height="4" fill="#7AA2F7"/>
+    <rect x="136" y="28" width="8" height="4" fill="#565F89"/>
+    <rect x="140" y="24" width="8" height="4" fill="#BB9AF7"/>
+
+    <!-- SMALL ROCK -->
+    <rect x="180" y="34" width="12" height="6" fill="#3B4261"/>
+    <rect x="184" y="30" width="8" height="4" fill="#565F89"/>
+    <rect x="188" y="34" width="8" height="2" fill="#9AA5CE"/>
+
+    <!-- CENTRAL FARM PLANT -->
+    <rect x="386" y="28" width="4" height="14" fill="#565F89"/>
+    <rect x="374" y="26" width="12" height="4" fill="#3B4261"/>
+    <rect x="378" y="22" width="8" height="4" fill="#7AA2F7"/>
+    <rect x="390" y="24" width="12" height="4" fill="#3B4261"/>
+    <rect x="394" y="20" width="8" height="4" fill="#BB9AF7"/>
+
+    <!-- WOODEN POSTS -->
+    <rect x="550" y="28" width="8" height="16" fill="#3B4261"/>
+    <rect x="558" y="32" width="20" height="4" fill="#565F89"/>
+    <rect x="558" y="40" width="20" height="4" fill="#1F2547"/>
+
+    <rect x="846" y="28" width="8" height="16" fill="#3B4261"/>
+    <rect x="854" y="32" width="20" height="4" fill="#565F89"/>
+    <rect x="854" y="40" width="20" height="4" fill="#1F2547"/>
+
+    <!-- FLOWER -->
+    <rect x="630" y="30" width="4" height="12" fill="#565F89"/>
+    <rect x="622" y="26" width="8" height="4" fill="#BB9AF7"/>
+    <rect x="634" y="26" width="8" height="4" fill="#BB9AF7"/>
+    <rect x="626" y="22" width="8" height="4" fill="#7AA2F7"/>
+    <rect x="626" y="30" width="8" height="4" fill="#9AA5CE"/>
+
+    <!-- RIGHT PLANT -->
+    <rect x="1010" y="28" width="4" height="14" fill="#565F89"/>
+    <rect x="1002" y="28" width="8" height="4" fill="#7AA2F7"/>
+    <rect x="1014" y="24" width="8" height="4" fill="#565F89"/>
+    <rect x="1018" y="20" width="8" height="4" fill="#BB9AF7"/>
+
+    <!-- PIXEL GRASS -->
+    <rect x="220" y="34" width="4" height="10" fill="#565F89"/>
+    <rect x="228" y="30" width="4" height="14" fill="#3B4261"/>
+    <rect x="236" y="34" width="4" height="10" fill="#565F89"/>
+
+    <rect x="760" y="34" width="4" height="10" fill="#565F89"/>
+    <rect x="768" y="30" width="4" height="14" fill="#3B4261"/>
+    <rect x="776" y="34" width="4" height="10" fill="#565F89"/>
+
+    <!-- REPEATABLE END MARKERS -->
+    <rect x="32" y="44" width="8" height="4" fill="#565F89"/>
+    <rect x="1160" y="44" width="8" height="4" fill="#565F89"/>
+</svg>

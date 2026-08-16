@@ -1,0 +1,125 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1200"
+    height="60"
+    viewBox="0 0 1200 60"
+    shape-rendering="crispEdges"
+>
+    <!--
+        border-bottom.svg
+        Pixel-art cozy night farm border
+    -->
+
+    <!-- Ground -->
+    <rect x="0" y="12" width="1200" height="4" fill="#1F2547"/>
+    <rect x="0" y="16" width="1200" height="6" fill="#161B33"/>
+    <rect x="0" y="22" width="1200" height="8" fill="#3B4261"/>
+    <rect x="0" y="30" width="1200" height="8" fill="#1F2547"/>
+    <rect x="0" y="38" width="1200" height="8" fill="#161B33"/>
+    <rect x="0" y="46" width="1200" height="6" fill="#0D1117"/>
+
+    <!-- TOP GRASS LINE -->
+    <rect x="0" y="8" width="1200" height="4" fill="#565F89"/>
+
+    <!-- LEFT CORNER -->
+    <rect x="0" y="8" width="4" height="20" fill="#565F89"/>
+    <rect x="4" y="8" width="8" height="16" fill="#3B4261"/>
+    <rect x="12" y="12" width="8" height="12" fill="#1F2547"/>
+    <rect x="20" y="16" width="12" height="8" fill="#161B33"/>
+    <rect x="8" y="4" width="8" height="4" fill="#7AA2F7"/>
+
+    <!-- RIGHT CORNER -->
+    <rect x="1168" y="16" width="12" height="8" fill="#161B33"/>
+    <rect x="1180" y="12" width="8" height="12" fill="#1F2547"/>
+    <rect x="1188" y="8" width="8" height="16" fill="#3B4261"/>
+    <rect x="1196" y="8" width="4" height="20" fill="#565F89"/>
+    <rect x="1184" y="4" width="8" height="4" fill="#7AA2F7"/>
+
+    <!-- GRASS CLUSTERS -->
+    <rect x="56" y="2" width="4" height="10" fill="#565F89"/>
+    <rect x="64" y="6" width="4" height="6" fill="#3B4261"/>
+    <rect x="72" y="0" width="4" height="12" fill="#565F89"/>
+
+    <rect x="320" y="2" width="4" height="10" fill="#565F89"/>
+    <rect x="328" y="6" width="4" height="6" fill="#3B4261"/>
+    <rect x="336" y="0" width="4" height="12" fill="#565F89"/>
+
+    <rect x="900" y="2" width="4" height="10" fill="#565F89"/>
+    <rect x="908" y="6" width="4" height="6" fill="#3B4261"/>
+    <rect x="916" y="0" width="4" height="12" fill="#565F89"/>
+
+    <!-- SMALL ROCKS -->
+    <rect x="112" y="24" width="16" height="8" fill="#3B4261"/>
+    <rect x="116" y="20" width="8" height="4" fill="#565F89"/>
+    <rect x="120" y="24" width="8" height="4" fill="#9AA5CE"/>
+
+    <rect x="460" y="28" width="16" height="8" fill="#3B4261"/>
+    <rect x="464" y="24" width="8" height="4" fill="#565F89"/>
+
+    <rect x="1050" y="26" width="16" height="8" fill="#3B4261"/>
+    <rect x="1054" y="22" width="8" height="4" fill="#565F89"/>
+
+    <!-- SMALL FLOWER -->
+    <rect x="178" y="20" width="4" height="16" fill="#565F89"/>
+    <rect x="170" y="16" width="8" height="4" fill="#BB9AF7"/>
+    <rect x="182" y="16" width="8" height="4" fill="#BB9AF7"/>
+    <rect x="174" y="12" width="8" height="4" fill="#7AA2F7"/>
+    <rect x="174" y="20" width="8" height="4" fill="#9AA5CE"/>
+
+    <!-- LEAF -->
+    <rect x="270" y="18" width="4" height="18" fill="#565F89"/>
+    <rect x="262" y="20" width="8" height="4" fill="#7AA2F7"/>
+    <rect x="266" y="16" width="8" height="4" fill="#3B4261"/>
+    <rect x="274" y="24" width="8" height="4" fill="#565F89"/>
+
+    <!-- WOOD PIXELS -->
+    <rect x="390" y="20" width="8" height="20" fill="#3B4261"/>
+    <rect x="398" y="24" width="24" height="4" fill="#565F89"/>
+    <rect x="398" y="32" width="24" height="4" fill="#1F2547"/>
+
+    <!-- CENTER PLANT -->
+    <rect x="590" y="20" width="4" height="22" fill="#565F89"/>
+    <rect x="578" y="18" width="12" height="4" fill="#3B4261"/>
+    <rect x="582" y="14" width="8" height="4" fill="#7AA2F7"/>
+    <rect x="594" y="22" width="12" height="4" fill="#3B4261"/>
+    <rect x="598" y="18" width="8" height="4" fill="#BB9AF7"/>
+
+    <!-- NIGHT FLOWER -->
+    <rect x="700" y="20" width="4" height="18" fill="#565F89"/>
+    <rect x="692" y="16" width="8" height="4" fill="#BB9AF7"/>
+    <rect x="704" y="16" width="8" height="4" fill="#BB9AF7"/>
+    <rect x="696" y="12" width="8" height="4" fill="#7AA2F7"/>
+
+    <!-- WOOD PIXELS -->
+    <rect x="800" y="18" width="8" height="22" fill="#3B4261"/>
+    <rect x="808" y="22" width="24" height="4" fill="#565F89"/>
+    <rect x="808" y="32" width="24" height="4" fill="#1F2547"/>
+
+    <!-- LEAF -->
+    <rect x="970" y="18" width="4" height="20" fill="#565F89"/>
+    <rect x="962" y="20" width="8" height="4" fill="#7AA2F7"/>
+    <rect x="966" y="16" width="8" height="4" fill="#3B4261"/>
+    <rect x="974" y="24" width="8" height="4" fill="#565F89"/>
+
+    <!-- SOIL PIXELS -->
+    <rect x="40" y="36" width="16" height="4" fill="#3B4261"/>
+    <rect x="80" y="42" width="12" height="4" fill="#565F89"/>
+    <rect x="240" y="38" width="16" height="4" fill="#3B4261"/>
+    <rect x="520" y="42" width="12" height="4" fill="#565F89"/>
+    <rect x="740" y="38" width="16" height="4" fill="#3B4261"/>
+    <rect x="930" y="42" width="12" height="4" fill="#565F89"/>
+    <rect x="1120" y="38" width="16" height="4" fill="#3B4261"/>
+
+    <!-- PIXEL STARS -->
+    <rect x="220" y="4" width="3" height="3" fill="#9AA5CE"/>
+    <rect x="225" y="4" width="3" height="3" fill="#BB9AF7"/>
+
+    <rect x="650" y="2" width="3" height="3" fill="#7AA2F7"/>
+    <rect x="655" y="2" width="3" height="3" fill="#9AA5CE"/>
+
+    <rect x="1020" y="4" width="3" height="3" fill="#BB9AF7"/>
+
+    <!-- REPEATABLE END DETAILS -->
+    <rect x="32" y="46" width="8" height="4" fill="#565F89"/>
+    <rect x="1160" y="46" width="8" height="4" fill="#565F89"/>
+</svg>
