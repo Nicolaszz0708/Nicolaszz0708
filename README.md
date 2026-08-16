@@ -1,7 +1,6 @@
 # Hi 👋, I'm Nicolas Reche
-# About me #
-## 👨‍💻 About me
 
+## 👨‍💻 About me
 I am a Technical Informatics student interested in software development and technology, with plans to study Systems Analysis and Development.
 I'm currently focused on becoming a Full Stack Developer, learning technologies like JavaScript, React, Node.js, Python, Django, Flask, and Vercel. 
 I'm also learning more about databases, Git, and software security, including password hashing and authentication.
