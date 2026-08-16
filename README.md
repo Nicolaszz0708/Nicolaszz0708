@@ -31,3 +31,6 @@
   <img height="120em" src="https://nicolas-github-stats.vercel.app/api?username=Nicolaszz0708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://nicolas-github-stats.vercel.app/api/top-langs/?username=Nicolaszz0708&layout=compact&theme=tokyonight"/>
 </p>
+
+<p ><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2U1b2wxZngwcGw1M2NqaDVsbGM2bDg3MG81aGY1YmplM3YzeWpiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzeWnbH8Uc5Y4/giphy.gif" width="100" height="100">
+</P>
