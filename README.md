@@ -25,12 +25,5 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Nicolaszz0708?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Nicolaszz0708?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nicolaszz0708?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%">
    </p>
-
-<p align="left">
-  <img height="120em" src="https://nicolas-github-stats.vercel.app/api?username=Nicolaszz0708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://nicolas-github-stats.vercel.app/api/top-langs/?username=Nicolaszz0708&layout=compact&theme=tokyonight"/>
-</p>
-
-<p ><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2U1b2wxZngwcGw1M2NqaDVsbGM2bDg3MG81aGY1YmplM3YzeWpiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzeWnbH8Uc5Y4/giphy.gif" width="100" height="100">
-</P>
