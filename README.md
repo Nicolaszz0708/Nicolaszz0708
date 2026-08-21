@@ -19,7 +19,7 @@ I'm also learning more about databases, Git, and software security, including pa
 
 # 📊GitHub Stats
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nicolaszz0708)](https://git.io/streak-stats)
 
 <p align="left">
       <a href="https://github.com/Nicolaszz0708?tab=followers">
