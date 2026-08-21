@@ -4,7 +4,7 @@
   <div data-importer="border">
     <img
       width="100%"
-      src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&reversal=false&text=Hi,%20I'm%20Nicolas%20Reche&fontSize=42&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=300&descAlignY=10&textBg=false&fontColor=452899"
+      src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&reversal=false&text=Hi,%20I'm%20Nicolas%20Reche&fontSize=42&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=300&descAlignY=10&textBg=false&fontColor=FFF"
       alt="Hi, I'm Nicolas Reche"
     />
   </div>
@@ -15,7 +15,7 @@
   <div data-importer="border">
     <img
       width="100%"
-      src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&reversal=false&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20me&fontSize=24&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=300&descAlignY=10&textBg=false&fontColor=452899"
+      src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&reversal=false&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20me&fontSize=24&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=300&descAlignY=10&textBg=false&fontColor=FFF"
       alt="About me"
     />
   </div>
@@ -30,7 +30,7 @@ I'm also learning more about databases, Git, and software security, including pa
   <div data-importer="border">
     <img
       width="100%"
-      src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&reversal=false&text=%F0%9F%8F%AB%20Technologies&fontSize=24&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=300&descAlignY=10&textBg=false&fontColor=452899"
+      src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&reversal=false&text=%F0%9F%8F%AB%20Technologies&fontSize=24&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=300&descAlignY=10&textBg=false&fontColor=FFF"
       alt="Technologies"
     />
   </div>
@@ -42,7 +42,7 @@ I'm also learning more about databases, Git, and software security, including pa
   <div data-importer="border">
     <img
       width="100%"
-      src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&reversal=false&text=%E2%9A%99%EF%B8%8F%20Tools&fontSize=24&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=300&descAlignY=10&textBg=false&fontColor=452899"
+      src="https://capsule-render.vercel.app/api?type=transparent&height=45&section=header&reversal=false&text=%E2%9A%99%EF%B8%8F%20Tools&fontSize=24&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=300&descAlignY=10&textBg=false&fontColor=FFF"
       alt="Tools"
     />
   </div>
