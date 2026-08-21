@@ -52,6 +52,7 @@ I'm also learning more about databases, Git, and software security, including pa
   <br>
 
 </div>
+
 ## 📊GitHub Stats
 
 <div align="left">
