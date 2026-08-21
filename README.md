@@ -1,3 +1,5 @@
+
+
 # Hi 👋, I'm Nicolas Reche
 
 ## 👨‍💻 About me
@@ -7,35 +9,17 @@ I'm also learning more about databases, Git, and software security, including pa
 
 
  ## 🏫 Study at Cedup
-![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=0052CC)
-![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=007ACC)
-![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Trello](https://img.shields.io/badge/Trello-323330?style=for-the-badge&logo=trello&logoColor=0052CC)
-
-## 🚀 Studying on my own  
-![React](https://img.shields.io/badge/react%20os-323330?style=for-the-badge&logo=reactos&logoColor=007ACC)
-![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=007ACC)
-![HTML5](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+[![CEDUP](https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,postgresql,mysql)](https://skillicons.dev)
 
 
 ## ⚙️ Tools
-![VS Code](https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-323330?style=for-the-badge&logo=vercel&logoColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=github,vercel,vscode,figma)](https://skillicons.dev)
 
 
 
 # 📊GitHub Stats
-<p align="left">
-  <img height="140em" src="https://nicolas-github-stats.vercel.app/api?username=Nicolaszz0708&show_icons=true&include_all_commits=true&count_private=true&bg_color=181825&title_color=CBA6F7&text_color=CDD6F4&icon_color=CBA6F7&hide_border=true"/>
-<img height="140em" src="https://nicolas-github-stats.vercel.app/api/top-langs/?username=Nicolaszz0708&layout=compact&bg_color=181825&title_color=CBA6F7&text_color=CDD6F4&icon_color=CBA6F7&hide_border=true&cache_seconds=1"/>
-</p>
+
+
 
 <p align="left">
       <a href="https://github.com/Nicolaszz0708?tab=followers">
@@ -44,7 +28,4 @@ I'm also learning more about databases, Git, and software security, including pa
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Nicolaszz0708?color=7F6AA8&style=for-the-badge&labelColor=6F5A91&logo=star"/></a>
    </p>
 
-![Snake animation](https://raw.githubusercontent.com/Nicolaszz0708/Nicolaszz0708/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%">
 
