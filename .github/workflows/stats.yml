@@ -1,0 +1,36 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate Stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Stats
+        run: |
+          mkdir -p output
+
+          curl -L \
+            "https://github-readme-stats.vercel.app/api?username=Nicolaszz0708&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" \
+            -o output/stats.svg
+
+          curl -L \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaszz0708&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" \
+            -o output/languages.svg
+
+      - name: Publish Stats
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: stats-output
+          folder: output
+          clean: true
+          single-commit: true
