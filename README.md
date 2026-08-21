@@ -23,7 +23,6 @@ I'm also learning more about databases, Git, and software security, including pa
 
 
 
-
 ## ⚙️ Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=white)
