@@ -34,24 +34,12 @@ I'm also learning more about databases, Git, and software security, including pa
 
 ## 📊GitHub Stats
 
-<div align="center">
-
+<div align="left">
   <br><br>
   <img 
     src="https://streak-stats.demolab.com?user=Nicolaszz0708&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3"
     height="150"
-    alt="streak graph"/>
-
-    
-  <img
-    src="https://raw.githubusercontent.com/Nicolaszz0708/Nicolaszz0708/stats-output/stats.svg"
-    height="150"
-    alt="GitHub Stats"/>
-  <img
-    src="https://raw.githubusercontent.com/Nicolaszz0708/Nicolaszz0708/stats-output/languages.svg"
-    height="150"
-    alt="Top Languages"/>
-    
+    alt="streak graph"/>  
 </div>
 
 <picture data-importer="pacman">
